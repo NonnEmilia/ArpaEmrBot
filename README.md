@@ -12,8 +12,8 @@ It's not an official bot, it's simply a reverse engineering/bridge to the Arpa w
 
 The use of virtualenv is recommended:
 
-    % virtualenv env
-    % . env/bin/activate
     % git clone https://github.com/NonnEmilia/ArpaEmrBot
     % cd ArpaEmrBot
+    % virtualenv env
+    % . env/bin/activate
     % pip install -r requirements.txt
